@@ -1,0 +1,14 @@
+form{
+	text-align: center;
+	margin: 20px;
+}
+
+fieldset{
+	width: 235px;
+}
+
+p{
+	font-family: 'Pacifico', cursive;
+	font-size: 20pt;
+	color: red;
+}
